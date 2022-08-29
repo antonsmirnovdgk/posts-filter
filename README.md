@@ -1,6 +1,6 @@
 # filter-authors
 
-## Small pet-project
+#Small pet-project
 
 ## Technologies used: 
 
