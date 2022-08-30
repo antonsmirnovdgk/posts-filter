@@ -3,6 +3,7 @@
     <VInput
         class="mb-md-5 w-25 mx-auto"
         v-model="search"
+        placeholder="Filter by author..."
     />
     <VListOfPosts :posts="postsByAuthor"/>
   </div>
